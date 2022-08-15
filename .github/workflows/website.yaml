@@ -16,7 +16,7 @@ jobs:
       with:
         submodules: true
 
-    - name: Setup Hugo
+    - name: Setup hugo
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.101.0'
@@ -25,17 +25,10 @@ jobs:
     - name: Build
       run: hugo --minify
 
-
-    - name: Setup go
-      uses: actions/setup-go@v3
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        go-version: '^1.19'
-    
-    - name: Hugo deploy github pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
-      env:
-        HUGO_VERSION: 0.101.0
-        HUGO_EXTENDED: true
-        TARGET_REPO: eguidotti/website
-        TOKEN: ${{ secrets.TOKEN }}
-        CNAME: guidotti.dev
+        deploy_key: ${{ secrets.TOKEN }}
+        publish_dir: ./public
+        publish_branch: master
+        cname: guidotti.dev
