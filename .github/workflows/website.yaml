@@ -21,22 +21,11 @@ jobs:
       with:
         go-version: '^1.19'
     
-    - name: Setup env
-      shell: bash
-      run: |
-        export PATH=$PATH:$(go env GOPATH)
-
-    - name: go info
-      shell: bash
-      run: |
-        echo $(go version) at $(which go)
-        echo go version: $(go version)
-        echo cache: $(ls $RUNNER_TOOL_CACHE/go) 
-    
     - name: Hugo deploy github pages
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.101.0
+        HUGO_EXTENDED: true
         TARGET_REPO: eguidotti/website
         TOKEN: ${{ secrets.TOKEN }}
         CNAME: guidotti.dev
