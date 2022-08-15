@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:emanuele.guidotti@unine.ch'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/eguidotti
