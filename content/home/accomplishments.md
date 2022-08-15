@@ -7,10 +7,10 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 70
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Grants & Awards'
 subtitle:
 
 # Date format
@@ -23,30 +23,24 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - date_start: '2021-06-29'
+    description: Awarded to enable performance tests on GPU for the paper [Text Classification with Born's Rule](/publication/text-classification-with-born-rule/)
+    organization: Google Cloud
+    organization_url: https://cloud.google.com
+    title: Google Cloud Research Credits
+    url: 'https://edu.google.com/programs/credits/research/'
+  - date_start: '2020-12-14'
+    description: Awarded to support the maintainance of [COVID-19 Data Hub](/publication/covid-19-data-hub/)
+    organization: R Consortium
+    organization_url: https://www.r-consortium.org
+    title: R Consortium ISC Grant Program
+    url: https://www.r-consortium.org/all-projects/call-for-proposals
+  - date_start: '2020-04-28'
+    description: Awarded to support the development of [COVID-19 Data Hub](/publication/covid-19-data-hub/)
+    organization: IVADO
+    organization_url: https://ivado.ca/en/
+    title: Institute for Data Valorization
+    url: 'https://ivado.ca/en/scholarships-and-grants/covid-19-ivado-projects-and-initiatives/'
 
 design:
   columns: '2'

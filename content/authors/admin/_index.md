@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Emanuele Guidotti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Neuchâtel
+    url: https://www.unine.ch/iaf/home/equipe/emanuele-guidotti.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interdisciplinary research at the intersection of finance, data science, and statistics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Empirical Asset Pricing
+  - Market Microstructure
+  - Explainable Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Finance
+      institution: University of Neuchâtel
+      year: 2023 (expected)
+    - course: MSc in Finance
+      institution: University of Milan
+      year: 2017
+    - course: BSc in Physics
+      institution: University of Milan
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +43,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/eguidotti
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/eguidotti
+  - icon: medium
+    icon_pack: fab
+    link: https://www.medium.com/@eguidotti
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=zS7c954AAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Emanuele-Guidotti
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-8961-6623
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,7 +70,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'emanuele.guidotti@unine.ch'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

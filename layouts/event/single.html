@@ -1,0 +1,166 @@
+{{- define "main" -}}
+
+<div class="pub">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+
+    {{ if .Params.abstract }}
+      <h3>{{ i18n "abstract" }}</h3>
+      <p class="pub-abstract">{{ .Params.abstract | markdownify | emojify }}</p>
+    {{ else }}
+      <br>
+    {{ end }}
+
+    {{ if .Params.talk }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Talk</div>
+          <div class="col-12 col-md-9">
+            {{ with .Params.talk_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+            {{ .Params.talk | markdownify }}
+            {{ if .Params.talk_url }}</a>{{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{ if .Params.talk_type }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            {{ .Params.talk_type | markdownify }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{ if .Params.session }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Session</div>
+          <div class="col-12 col-md-9">
+            {{ with .Params.session_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+            {{ .Params.session | markdownify }}
+            {{ if .Params.session_url }}</a>{{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{ if .Params.speaker }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Speaker</div>
+          <div class="col-12 col-md-9">
+            {{ with .Params.speaker_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+            {{ .Params.speaker | markdownify }}
+            {{ if .Params.speaker_url }}</a>{{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{ if .Params.discussant }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Discussant</div>
+          <div class="col-12 col-md-9">
+            {{ with .Params.discussant_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+            {{ .Params.discussant | markdownify }}
+            {{ if .Params.discussant_url }}</a>{{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    <div class="space-below"></div>
+
+    {{ if .Params.event }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "event" }}</div>
+          <div class="col-12 col-md-9">
+            {{ with .Params.event_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+            {{ .Params.event | markdownify }}
+            {{ if .Params.event_url }}</a>{{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "date" }}</div>
+          <div class="col-12 col-md-9">
+            {{ partial "functions/get_event_dates" . }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    {{ if .Params.location }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "location" }}</div>
+          <div class="col-12 col-md-9">{{ .Params.location | markdownify }}</div>
+          {{ if .Params.address }}
+            <div class="col-md-3"></div>
+            <div class="col-12 col-md-9">{{partial "functions/get_address" (dict "root" . "address" .Params.address) }}</div>
+          {{end}}
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+    
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</div>
+{{- end -}}

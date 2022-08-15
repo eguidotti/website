@@ -5,23 +5,46 @@
 
 main:
   - name: Home
-    url: '#about'
-    weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+    url: '/'
+    weight: 1
+  - name: Research
+    identifier: research
+    weight: 2
+  - name: PhD in Finance
+    parent: research
+    url: /project/phd/
+    weight: 1
+  - name: The YUIMA Project
+    parent: research
+    url: /project/yuima/
+    weight: 2
+  - name: Born's Rule Classifier
+    parent: research
+    url: /project/born/
+    weight: 3
+  - name: COVID-19 Data Hub
+    parent: research
+    url: /project/covid19/
+    weight: 4
+  - name: Coding
+    parent: research
+    url: /project/coding/
+    weight: 3
   - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+    url: '/publication/'
+    weight: 3
+  - name: Talks
+    url: '/event/'
+    weight: 4
+  - name: Teaching
+    url: '/teaching/'
+    weight: 5
+  - name: Coding
+    url: '/coding/'
+    weight: 6
+  - name: Service
+    url: '/service/'
+    weight: 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
