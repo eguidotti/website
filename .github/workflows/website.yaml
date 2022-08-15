@@ -22,9 +22,17 @@ jobs:
         go-version: '^1.19'
     
     - name: Setup env
+      shell: bash
       run: |
         export PATH=$PATH:$(go env GOPATH)/bin
 
+    - name: go info
+        shell: bash
+        run: |
+          echo $(go version) at $(which go)
+          echo go version: $(go version)
+          echo cache: $(ls $RUNNER_TOOL_CACHE/go) 
+    
     - name: Hugo deploy github pages
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
