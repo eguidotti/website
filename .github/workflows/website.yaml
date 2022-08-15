@@ -16,6 +16,16 @@ jobs:
       with:
         submodules: true
 
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.73.0'
+        extended: true
+
+    - name: Build
+      run: hugo --minify
+
+
     - name: Setup go
       uses: actions/setup-go@v3
       with:
