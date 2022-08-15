@@ -24,7 +24,7 @@ jobs:
     - name: Setup env
       shell: bash
       run: |
-        export PATH=$PATH:$(go env GOPATH)/bin
+        export PATH=$PATH:$(go env GOPATH)
 
     - name: go info
       shell: bash
