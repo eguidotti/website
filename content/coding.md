@@ -16,6 +16,8 @@ I am familiar with a dozen of programming languages, but I mainly code in R and 
 
 ## GitHub repositories
 
+<div style="max-width: 100%; overflow: auto;">
+
 |   |   |   |
 | - | - | - |
 | [`bidask`](https://github.com/eguidotti/bidask) | ![](https://img.shields.io/github/stars/eguidotti/bidask?style=social) | Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices |
@@ -23,7 +25,11 @@ I am familiar with a dozen of programming languages, but I mainly code in R and 
 | [`covid19datahub`](https://github.com/covid19datahub/COVID19) | ![](https://img.shields.io/github/stars/covid19datahub/COVID19?style=social) | COVID-19 Data Hub |
 | [`RblDataLicense`](https://github.com/eguidotti/RblDataLicense) | ![](https://img.shields.io/github/stars/eguidotti/rbldatalicense?style=social) | R Interface to Bloomberg Data License |
 
+</div>
+
 ## R packages
+
+<div style="max-width: 100%; overflow: auto;">
 
 |   |   |   |
 | - | - | - |
@@ -33,11 +39,16 @@ I am familiar with a dozen of programming languages, but I mainly code in R and 
 | [`RblDataLicense`](https://cran.r-project.org/package=RblDataLicense) | ![](https://cranlogs.r-pkg.org/badges/grand-total/calculus) | R Interface to Bloomberg Data License |
 | [`yuimaGUI`](https://cran.r-project.org/package=yuimaGUI) | ![](https://cranlogs.r-pkg.org/badges/grand-total/yuimaGUI) | A Graphical User Interface for the [`yuima`](https://cran.r-project.org/package=yuima) Package |
 
+</div>
 
 ## Python packages
+
+<div style="max-width: 100%; overflow: auto;">
 
 |   |   |   |
 | - | - | - |
 | [`bidask`](https://pypi.org/pypi/bidask/) | ![](https://pepy.tech/badge/bidask) | Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices |
 | [`covid19dh`](https://pypi.org/pypi/covid19dh/) | ![](https://pepy.tech/badge/covid19dh) | Python Interface to COVID-19 Data Hub |
 | [`stc`](https://pypi.org/pypi/stc/) | ![](https://pepy.tech/badge/stc) | ~~Sparse Tensor Classifier~~ Supervised Classification with Born's Rule (to be migrated) |
+
+</div>
