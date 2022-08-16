@@ -24,19 +24,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_start: '2021-06-29'
-    description: Awarded to enable performance tests on GPU for the paper [Text Classification with Born's Rule](/publication/text-classification-with-born-rule/)
+    description: Awarded to enable performance tests on GPU for the paper [Text Classification with Born's Rule]({{< relref "/publication/text-classification-with-born-rule" >}})
     organization: Google Cloud
     organization_url: https://cloud.google.com
     title: Google Cloud Research Credits
     url: 'https://edu.google.com/programs/credits/research/'
   - date_start: '2020-12-14'
-    description: Awarded to support the maintainance of [COVID-19 Data Hub](/publication/covid-19-data-hub/)
+    description: Awarded to support the maintainance of [COVID-19 Data Hub]({{< relref "/project/covid19" >}})
     organization: R Consortium
     organization_url: https://www.r-consortium.org
     title: R Consortium ISC Grant Program
     url: https://www.r-consortium.org/all-projects/call-for-proposals
   - date_start: '2020-04-28'
-    description: Awarded to support the development of [COVID-19 Data Hub](/publication/covid-19-data-hub/)
+    description: Awarded to support the development of [COVID-19 Data Hub]({{< relref "/project/covid19" >}})
     organization: IVADO
     organization_url: https://ivado.ca/en/
     title: Institute for Data Valorization
