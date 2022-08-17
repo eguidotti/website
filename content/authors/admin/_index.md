@@ -20,7 +20,7 @@ bio: Interdisciplinary research at the intersection of finance, data science, an
 interests:
   - Empirical Asset Pricing
   - Market Microstructure
-  - Explainable Artificial Intelligence
+  - Explainable Machine Learning
 
 # Education to show in About widget
 education:
@@ -76,8 +76,9 @@ email: 'emanuele.guidotti@unine.ch'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am PhD student in Finance at the University of Neuchâtel. My research interests include empirical asset pricing and market microstructure. My research focuses on how micrustructure variables affect asset prices. 
+I am also member of The YUIMA Project Team and partner at Algo Finance Sagl: a software-house startup developing financial algorithms for the asset management industry. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I work with R and Python, relational databases, cloud computing, and I have a keen interest in data science and machine learning across different disciplines. I am the developer of RblDataLicense: a R interface to the Bloomberg Data License service. I have also authored the COVID-19 Data Hub and a supervised classification algorithm inspired to quantum physics. My software packages have been downloaded 100.000+ times.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< cta cta_text="Download CV" cta_link="uploads/cv.pdf" >}}
