@@ -1,6 +1,6 @@
 ---
 title: PhD in Finance
-summary: Empirical Asset Pricing and Market Microstructure
+summary: Empirical asset pricing and market microstructure
 date: '2022-06-01T00:00:00Z'
 
 image:

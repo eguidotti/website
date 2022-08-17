@@ -1,7 +1,7 @@
 ---
 title: The YUIMA Project
-summary: Computational Statistics and Stochastic Processes
-date: '2021-12-01T00:00:00Z'
+summary: Computational statistics and stochastic processes
+date: '2017-07-14T00:00:00Z'
 
 image:
   preview_only: true

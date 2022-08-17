@@ -76,9 +76,8 @@ email: 'emanuele.guidotti@unine.ch'
 highlight_name: true
 ---
 
-I am PhD student in Finance at the University of Neuchâtel. My research interests include empirical asset pricing and market microstructure. My research focuses on how micrustructure variables affect asset prices. 
-I am also member of The YUIMA Project Team for computational statistics and partner at Algo Finance Sagl: a software-house startup developing financial algorithms for the asset management industry. 
+I am [PhD student in Finance]({{< relref "/project/phd" >}}) at the University of Neuchâtel. My research interests include empirical asset pricing and market microstructure. My research focuses on how microstructure variables affect asset prices. I am also partner at Algo Finance Sagl: a software house startup developing financial algorithms for the asset management industry. 
 
-I work with R and Python, relational databases, cloud computing, and I have a keen interest in data science and machine learning across different disciplines. I am the developer of RblDataLicense: an R interface to the Bloomberg Data License service. I have also authored the COVID-19 Data Hub and a supervised classification algorithm inspired to quantum physics. 
+I work with various programming languages, relational databases, cloud computing, and I have a keen interest in data science and machine learning across different disciplines. I have developed [R and Python packages]({{< relref "/coding" >}}), started the [COVID-19 Data Hub]({{< relref "/project/covid19" >}}), and authored a [supervised classification algorithm]({{< relref "/publication/text-classification-with-born-rule" >}}) inspired to quantum physics. I am also member of [The YUIMA Project Team]({{< relref "/project/yuima" >}}) for computational statistics.
 
 {{< cta cta_text="Download CV" cta_link="uploads/cv.pdf" >}}

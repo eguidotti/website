@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Data Hub
-summary: Data Science in Public Health and Epidemiology
+summary: Unified dataset for a better understanding of COVID-19
 date: '2020-04-01T00:00:00Z'
 
 image:
