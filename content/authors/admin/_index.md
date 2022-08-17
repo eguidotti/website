@@ -77,8 +77,8 @@ highlight_name: true
 ---
 
 I am PhD student in Finance at the University of Neuchâtel. My research interests include empirical asset pricing and market microstructure. My research focuses on how micrustructure variables affect asset prices. 
-I am also member of The YUIMA Project Team and partner at Algo Finance Sagl: a software-house startup developing financial algorithms for the asset management industry. 
+I am also member of The YUIMA Project Team for computational statistics and partner at Algo Finance Sagl: a software-house startup developing financial algorithms for the asset management industry. 
 
-I work with R and Python, relational databases, cloud computing, and I have a keen interest in data science and machine learning across different disciplines. I am the developer of RblDataLicense: a R interface to the Bloomberg Data License service. I have also authored the COVID-19 Data Hub and a supervised classification algorithm inspired to quantum physics. My software packages have been downloaded 100.000+ times.
+I work with R and Python, relational databases, cloud computing, and I have a keen interest in data science and machine learning across different disciplines. I am the developer of RblDataLicense: an R interface to the Bloomberg Data License service. I have also authored the COVID-19 Data Hub and a supervised classification algorithm inspired to quantum physics. 
 
 {{< cta cta_text="Download CV" cta_link="uploads/cv.pdf" >}}
