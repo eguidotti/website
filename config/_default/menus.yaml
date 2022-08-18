@@ -14,18 +14,14 @@ main:
     parent: research
     url: /project/phd/
     weight: 1
-  - name: The YUIMA Project
-    parent: research
-    url: /project/yuima/
-    weight: 2
-  - name: Born's Rule Classifier
-    parent: research
-    url: /project/born/
-    weight: 3
   - name: COVID-19 Data Hub
     parent: research
     url: /project/covid19/
-    weight: 4
+    weight: 2
+  - name: The YUIMA Project
+    parent: research
+    url: /project/yuima/
+    weight: 3
   - name: Coding
     parent: research
     url: /project/coding/
