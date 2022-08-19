@@ -11,4 +11,4 @@ I am member of [The YUIMA Project Team](https://doi.org/10.18637/jss.v057.i04) s
 
 In my MSc thesis, I developed [yuimaGUI](https://cran.r-project.org/package=yuimaGUI), the Graphical User Interface for [yuima](https://cran.r-project.org/package=yuima), under the supervision of [S.M. Iacus](https://scholar.google.com/citations?user=JBs9tJ4AAAAJ&hl=en).
 
-I am now working with [N. Yoshida](https://scholar.google.com/citations?user=LiebdNAAAAAJ&hl=en) on the implementation of asymptotic expansion formulas for diffusion processes that would enable to approximate the transition density with arbitrary degree of accuracy. 
+I am now working with [N. Yoshida](https://scholar.google.com/citations?user=LiebdNAAAAAJ&hl=en) on the implementation of asymptotic expansion formulas for diffusion processes. 
