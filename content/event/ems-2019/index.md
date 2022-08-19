@@ -5,7 +5,7 @@ publishDate: '2022-06-01T00:00:00Z'
 title: European Meeting of Statisticians (EMS)
 event: European Meeting of Statisticians
 
-talk_type: Paper presentation
+talk_type: Conference talk
 talk: Towards coding of the asymptotic expansion formulas in YUIMA
 summary: Towards Coding of the Asymptotic Expansion Formulas in YUIMA
 session: High-frequency and computational statistics
