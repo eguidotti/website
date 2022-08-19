@@ -13,7 +13,7 @@ speaker: Emanuele Guidotti
 location: Montréal, Canada
 date: '2022-05-10T12:00:00Z'
 date_end: '2022-05-10T13:00:00Z'
-all_day: true
+all_day: false
 
 projects:
   - phd
