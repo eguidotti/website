@@ -5,7 +5,7 @@ publishDate: '2022-06-01T00:00:00Z'
 title: YUIMA Summer School on Computational and Statistical Methods for Stochastic Process
 event: YUIMA Summer School on Computational and Statistical Methods for Stochastic Process
 
-talk_type: Lecturer
+talk_type: Lecture
 talk: 'R programming and overview of yuima and yuimaGUI'
 summary: 'R Programming and Overview of yuima and yuimaGUI'
 speaker: Emanuele Guidotti

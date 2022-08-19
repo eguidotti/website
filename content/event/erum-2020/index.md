@@ -5,7 +5,7 @@ publishDate: '2022-06-01T00:00:00Z'
 title: European R Users Meeting (eRum)
 event: European R Users Meeting
 
-talk_type: Invited speaker, winner of the CovidR contest
+talk_type: Conference talk (invited)
 talk: COVID-19 data hub
 summary: COVID-19 Data Hub
 session: Plenary session

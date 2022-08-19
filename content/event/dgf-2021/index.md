@@ -2,10 +2,10 @@
 featured: false
 publishDate: '2022-06-01T00:00:00Z'
 
-title: 27th Annual Meeting of the German Finance Association (DGF)
-event: 27th Annual Meeting of the German Finance Association
+title: Annual Meeting of the German Finance Association (DGF)
+event: Annual Meeting of the German Finance Association
 
-talk_type: Paper presentation
+talk_type: Conference talk
 talk: Efficient estimation of bid-ask spreads from open, high, low, and close prices
 summary: Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
 session: Financial econometrics

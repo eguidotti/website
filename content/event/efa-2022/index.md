@@ -2,10 +2,10 @@
 featured: true
 publishDate: '2022-06-01T00:00:00Z'
 
-title: 49th Annual Meeting of the European Finance Association (EFA)
-event: 49th Annual Meeting of the European Finance Association 
+title: Annual Meeting of the European Finance Association (EFA)
+event: Annual Meeting of the European Finance Association 
 
-talk_type: Paper presentation
+talk_type: Conference talk
 talk: Efficient estimation of bid-ask spreads from open, high, low, and close prices
 summary: Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
 session: Measuring trading frictions

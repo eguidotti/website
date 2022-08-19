@@ -5,7 +5,7 @@ publishDate: '2022-06-01T00:00:00Z'
 title: R/Finance Conference
 event: R/Finance Conference
 
-talk_type: Full talk
+talk_type: Conference talk (full)
 talk: 'yuimaGUI: interactive platform for computational finance'
 summary: 'yuimaGUI: Interactive Platform for Computational Finance'
 session: Plenary session

@@ -2,10 +2,10 @@
 featured: false
 publishDate: '2022-06-01T00:00:00Z'
 
-title: XXXII IUPAP Conference on Computational Physics (CCP)
-event: XXXII IUPAP Conference on Computational Physics
+title: IUPAP Conference on Computational Physics (CCP)
+event: IUPAP Conference on Computational Physics
 
-talk_type: Paper presentation
+talk_type: Conference talk
 talk: An explainable probabilistic classifier for categorical data inspired to quantum physics
 summary: An Explainable Probabilistic Classifier for Categorical Data Inspired to Quantum Physics
 session: Machine learning and algorithms
