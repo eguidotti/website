@@ -2,8 +2,8 @@
 featured: false
 publishDate: '2022-06-01T00:00:00Z'
 
-title: Edition of the International Risk Management Conference (IRMC)
-event: Edition of the International Risk Management Conference
+title: International Risk Management Conference (IRMC)
+event: International Risk Management Conference
 
 talk_type: Conference talk
 talk: Efficient estimation of bid-ask spreads from open, high, low, and close prices
