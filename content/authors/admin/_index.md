@@ -20,7 +20,7 @@ bio: Interdisciplinary research at the intersection of finance, data science, an
 interests:
   - Empirical Asset Pricing
   - Market Microstructure
-  - Explainable Machine Learning
+  - Interdisciplinary Data Science & AI
 
 # Education to show in About widget
 education:
@@ -76,8 +76,8 @@ email: 'emanuele.guidotti@unine.ch'
 highlight_name: true
 ---
 
-I am [PhD student in Finance]({{< relref "/project/phd" >}}) at the University of Neuchâtel. My research interests include empirical asset pricing and market microstructure. My research focuses on how microstructure variables affect asset prices and participate in the price formation. I am also partner at Algo Finance Sagl: a software house startup developing financial algorithms for the asset management industry. 
+I am PhD student in Finance at the University of Neuchâtel. My research interests include empirical asset pricing and market microstructure. My research focuses on how microstructure variables affect asset prices and participate in the price formation. I am also partner at Algo Finance Sagl: a software house startup developing financial algorithms for the asset management industry. 
 
-I have an interdisciplinary background at the intersection of finance, data science, and statistics. I work with R and Python, relational databases, cloud computing, and I have a keen interest in explainable and interpretable machine learning. I am member of [The YUIMA Project Team]({{< relref "/project/yuima" >}}), I developed the [COVID-19 Data Hub]({{< relref "/project/covid19" >}}), and I recently authored a [supervised classification algorithm]({{< relref "/publication/text-classification-with-born-rule" >}}) inspired to quantum physics. 
+I have an interdisciplinary background at the intersection of finance, data science, and statistics. I work with R and Python, relational databases, cloud computing, and I like interdisciplinary data science and AI projects.
 
 {{< cta cta_text="Download CV" cta_link="uploads/cv.pdf" >}}
