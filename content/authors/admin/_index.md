@@ -58,6 +58,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Emanuele-Guidotti
+  #- icon: ssrn
+  #  icon_pack: ai
+  #  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3542050
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8961-6623
