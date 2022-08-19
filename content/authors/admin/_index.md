@@ -74,6 +74,6 @@ highlight_name: true
 
 I am PhD student in Finance at the University of Neuchâtel. My research interests include empirical asset pricing and market microstructure. My research focuses on how microstructure variables affect asset prices and participate in the price formation. I am also partner at Algo Finance Sagl: a software house startup developing financial algorithms for the asset management industry. 
 
-I have an interdisciplinary background at the intersection of finance, data science, and statistics. I work with R and Python, relational databases, cloud computing, and I like interdisciplinary data science and AI projects.
+I have an interdisciplinary background at the intersection of finance, data science, and statistics. I work with R and Python, relational databases, cloud computing, and I am passionate about interdisciplinary data science and AI projects.
 
 {{< cta cta_text="Download CV" cta_link="uploads/cv.pdf" >}}
