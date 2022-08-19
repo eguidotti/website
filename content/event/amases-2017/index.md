@@ -6,8 +6,8 @@ title: Annual Meeting of the Association for Mathematics Applied to Social and E
 event: Annual Meeting of the Association for Mathematics Applied to Social and Economic Sciences
 
 talk_type: Paper presentation
-talk: 'yuimaGUI: a graphical user interface for the yuima package.'
-summary: 'yuimaGUI: a Graphical User Interface for the yuima package.'
+talk: 'yuimaGUI: a graphical user interface for the yuima package'
+summary: 'yuimaGUI: a Graphical User Interface for the yuima package'
 session: Computational finance
 speaker: Emanuele Guidotti
 
