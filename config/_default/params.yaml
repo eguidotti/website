@@ -21,7 +21,7 @@ marketing:
     description: 'PhD Student in Finance'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-112916657-1'
     baidu_tongji: ''
   verification:
     google: ''
