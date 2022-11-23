@@ -23,6 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - date_start: '2022-10-07'
+    description: Awarded for the paper [Text Classification with Born's Rule]({{< relref "/publication/text-classification-with-born-rule" >}})
+    organization: NeurIPS
+    organization_url: https://neurips.cc
+    title: Neural Information Processing Systems Scholar Award
+    url: 'https://neurips.cc/Conferences/2022/FinancialAssistance'
   - date_start: '2021-06-29'
     description: Awarded to enable performance tests on GPU for the paper [Text Classification with Born's Rule]({{< relref "/publication/text-classification-with-born-rule" >}})
     organization: Google Cloud
