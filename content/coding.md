@@ -21,6 +21,7 @@ I am familiar with a dozen of programming languages, but I mainly code in R and 
 |   |   |   |
 | - | - | - |
 | [`bidask`](https://github.com/eguidotti/bidask) | ![](https://img.shields.io/github/stars/eguidotti/bidask?style=social) | Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices |
+| [`bornrule`](https://github.com/eguidotti/bornrule) | ![](https://img.shields.io/github/stars/eguidotti/bornrule?style=social) | Classification with Born's Rule |
 | [`calculus`](https://github.com/eguidotti/calculus) | ![](https://img.shields.io/github/stars/eguidotti/calculus?style=social) | High Dimensional Numerical and Symbolic Calculus in R |
 | [`covid19datahub`](https://github.com/covid19datahub/COVID19) | ![](https://img.shields.io/github/stars/covid19datahub/COVID19?style=social) | COVID-19 Data Hub |
 | [`RblDataLicense`](https://github.com/eguidotti/RblDataLicense) | ![](https://img.shields.io/github/stars/eguidotti/rbldatalicense?style=social) | R Interface to Bloomberg Data License |
@@ -48,7 +49,7 @@ I am familiar with a dozen of programming languages, but I mainly code in R and 
 |   |   |   |
 | - | - | - |
 | [`bidask`](https://pypi.org/pypi/bidask/) | ![](https://pepy.tech/badge/bidask) | Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices |
+| [`bornrule`](https://pypi.org/pypi/bornrule/) | ![](https://pepy.tech/badge/bornrule) | Classification with Born's Rule |
 | [`covid19dh`](https://pypi.org/pypi/covid19dh/) | ![](https://pepy.tech/badge/covid19dh) | Python Interface to COVID-19 Data Hub |
-| [`stc`](https://pypi.org/pypi/stc/) | ![](https://pepy.tech/badge/stc) | ~~Sparse Tensor Classifier~~ Supervised Classification with Born's Rule (to be migrated) |
 
 </div>
