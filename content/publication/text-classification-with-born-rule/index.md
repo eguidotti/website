@@ -33,7 +33,7 @@ abstract: "This paper presents a text classification algorithm inspired by the n
 url_pdf: https://openreview.net/pdf?id=sNcn-E3uPHA
 url_github: https://github.com/eguidotti/bornrule
 url_pypi: https://pypi.org/project/bornrule/
-url_website: https://github.com/eguidotti/bornrule
+url_website: https://eguidotti.github.io/bornrule/
 
 # Linked projects
 projects:
