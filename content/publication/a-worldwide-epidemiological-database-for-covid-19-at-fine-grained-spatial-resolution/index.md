@@ -3,7 +3,7 @@
 title: 'A worldwide epidemiological database for COVID-19 at fine-grained spatial resolution'
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

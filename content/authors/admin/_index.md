@@ -18,21 +18,20 @@ bio: Interdisciplinary research at the intersection of finance, data science, an
 
 # Interests to show in About widget
 interests:
-  - Empirical Asset Pricing
-  - Market Microstructure
-  - Interdisciplinary Data Science & AI
+  - Financial markets
+  - Data science
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Finance
-      institution: University of Neuchâtel
+      institution: University of Neuchâtel, Switzerland
       year: 2023 (expected)
     - course: MSc in Finance
-      institution: University of Milan
+      institution: University of Milan, Italy
       year: 2017
     - course: BSc in Physics
-      institution: University of Milan
+      institution: University of Milan, Italy
       year: 2015
 
 # Social/Academic Networking
@@ -72,8 +71,10 @@ email: 'emanuele.guidotti@unine.ch'
 highlight_name: true
 ---
 
-I am PhD student in Finance at the University of Neuchâtel. My research interests include empirical asset pricing and market microstructure. My research focuses on how microstructure variables affect asset prices and participate in price formation. I am also partner at Algo Finance Sagl: a software house startup developing financial algorithms for the asset management industry. 
+I am PhD student in Finance at the University of Neuchâtel. My research interests include asset pricing and market microstructure. My research focuses on how microstructure variables affect asset prices and participate in price formation. I am also partner at Algo Finance Sagl: a software house startup developing financial algorithms for the asset management industry. 
 
-I have an interdisciplinary background at the intersection of finance, data science, and statistics. I work with R and Python, relational databases, cloud computing, and I am passionate about interdisciplinary data science and AI projects.
+I work with R and Python, relational databases, and cloud computing. I have also written efficient SAS code to process 200+ TB of high-frequency TAQ data via the WRDS High Performance Computing Cluster.
+
+I am passionate about interdisciplinary data science and AI projects.
 
 [Download CV](uploads/cv.pdf)
