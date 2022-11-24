@@ -8,7 +8,7 @@ event: Annual Meeting of the Financial Management Association
 talk_type: Conference talk
 talk: Efficient estimation of bid-ask spreads from open, high, low, and close prices
 summary: Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
-session: ''
+session: Market microstructure
 speaker: Emanuele Guidotti
 
 location: Atlanta, Georgia, United States

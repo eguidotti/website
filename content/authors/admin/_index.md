@@ -76,4 +76,4 @@ I am PhD student in Finance at the University of Neuchâtel. My research interes
 
 I have an interdisciplinary background at the intersection of finance, data science, and statistics. I work with R and Python, relational databases, cloud computing, and I am passionate about interdisciplinary data science and AI projects.
 
-{{< cta cta_text="Download CV" cta_link="uploads/cv.pdf" >}}
+[Download CV](uploads/cv.pdf)
