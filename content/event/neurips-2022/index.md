@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 publishDate: '2022-11-22T00:00:00Z'
 
 title: Conference on Neural Information Processing Systems (NeurIPS) 

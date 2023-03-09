@@ -19,7 +19,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
     exclude_featured: false
     exclude_future: false
@@ -30,8 +30,16 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  # Edit archive link
+  archive:
+    enable: true
+    text: See all publications
+    link: publication/
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 4
 ---

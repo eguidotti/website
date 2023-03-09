@@ -14,7 +14,7 @@ organizations:
     url: https://www.unine.ch/iaf/home/equipe/emanuele-guidotti.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interdisciplinary research at the intersection of finance, data science, and statistics.
+bio: ''
 
 # Interests to show in About widget
 interests:

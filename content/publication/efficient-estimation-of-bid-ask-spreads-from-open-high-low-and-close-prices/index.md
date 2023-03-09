@@ -3,7 +3,7 @@
 title: 'Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices'
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
