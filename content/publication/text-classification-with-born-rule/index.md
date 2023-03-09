@@ -34,6 +34,7 @@ url_pdf: https://openreview.net/pdf?id=sNcn-E3uPHA
 url_github: https://github.com/eguidotti/bornrule
 url_pypi: https://pypi.org/project/bornrule/
 url_website: https://eguidotti.github.io/bornrule/
+url_poster: https://nips.cc/media/PosterPDFs/NeurIPS%202022/8d7628dd7a710c8638dbd22d4421ee46.png
 
 # Tags
 tags: [machine learning, software]
