@@ -30,7 +30,7 @@ abstract: This database provides the daily time-series of COVID-19 cases, deaths
 # Links
 doi: 10.1038/s41597-022-01245-1
 url_pdf: https://www.nature.com/articles/s41597-022-01245-1.pdf
-url_data: https://figshare.com/s/3fc10c1902bac3987417
+url_data: https://covid19datahub.io/articles/data.html
 url_website: https://covid19datahub.io
 url_github: https://github.com/covid19datahub/COVID19
 url_cran: https://cran.r-project.org/package=COVID19
