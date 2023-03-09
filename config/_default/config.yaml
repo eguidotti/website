@@ -32,10 +32,6 @@ module:
 cascade:
   - image:
       preview_only: true
-  - _target:
-    path: /project/**
-    show_date: false
-
 
 ############################
 ## ADVANCED

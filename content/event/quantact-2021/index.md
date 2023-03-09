@@ -15,6 +15,5 @@ date: '2021-01-22T11:00:00Z'
 date_end: '2021-01-22T12:00:00Z'
 all_day: false
 
-projects:
-  - yuima
+tags: [yuima, statistics]
 ---

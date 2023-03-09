@@ -16,6 +16,7 @@ date: '2021-08-01T12:00:00Z'
 date_end: '2021-08-05T12:00:00Z'
 all_day: true
 
-projects:
-  - born
+url_publication: /publication/text-classification-with-born-rule/
+
+tags: [machine learning]
 ---

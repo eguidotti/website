@@ -16,6 +16,7 @@ date: '2020-06-17T12:00:00Z'
 date_end: '2020-06-20T12:00:00Z'
 all_day: true
 
-projects:
-  - covid19
+url_publication: /publication/covid-19-data-hub/
+
+tags: [covid19]
 ---

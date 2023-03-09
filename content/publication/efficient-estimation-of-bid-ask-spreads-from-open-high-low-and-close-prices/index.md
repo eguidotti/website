@@ -36,10 +36,6 @@ url_github: https://github.com/eguidotti/bidask
 url_cran: https://cran.r-project.org/package=bidask
 url_pypi: https://pypi.org/pypi/bidask/
 
-# Linked projects
-projects:
-  - phd
-
 # Tags
-tags: [bid-ask spread, market microstructure, financial econometrics, liquidity]
+tags: [finance, software]
 ---

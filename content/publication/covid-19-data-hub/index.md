@@ -22,7 +22,7 @@ date: '2020-07-10'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Open Source Software, vol. 5(51), pag. 2376
+publication: _Journal of Open Source Software_, vol. 5(51), pag. 2376
 summary: Journal of Open Source Software, vol. 5(51), pag. 2376
 
 # Abstract
@@ -36,10 +36,6 @@ url_github: https://github.com/covid19datahub/COVID19
 url_cran: https://cran.r-project.org/package=COVID19
 url_pypi: https://pypi.org/pypi/covid19dh/
 
-# Linked projects
-projects:
-  - covid19
-
 # Tags
-tags: [covid19]
+tags: [covid19, software]
 ---

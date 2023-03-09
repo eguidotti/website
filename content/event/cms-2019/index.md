@@ -16,6 +16,5 @@ date: '2019-12-14T12:00:00Z'
 date_end: '2019-12-16T12:00:00Z'
 all_day: true
 
-projects:
-  - yuima
+tags: [yuima, statistics]
 ---

@@ -22,7 +22,7 @@ date: '2022-11-22'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Advances in Neural Information Processing Systems
+publication: _Advances in Neural Information Processing Systems_
 summary: Advances in Neural Information Processing Systems
 
 # Abstract
@@ -35,10 +35,6 @@ url_github: https://github.com/eguidotti/bornrule
 url_pypi: https://pypi.org/project/bornrule/
 url_website: https://eguidotti.github.io/bornrule/
 
-# Linked projects
-projects:
-  - born
-
 # Tags
-tags: [nlp, supervised classification, machine learning, quantum physics]
+tags: [machine learning, software]
 ---

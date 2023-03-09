@@ -34,10 +34,6 @@ url_website: https://rbldatalicense.guidotti.dev
 url_github: https://github.com/eguidotti/RblDataLicense
 url_cran: https://cran.r-project.org/package=RblDataLicense
 
-# Linked projects
-# projects:
-#  - phd
-
 # Tags
-tags: []
+tags: [software]
 ---

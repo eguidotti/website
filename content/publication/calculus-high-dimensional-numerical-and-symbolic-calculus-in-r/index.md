@@ -21,7 +21,7 @@ date: '2022-09-29'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Statistical Software, vol. 104(5), pag. 1–37
+publication: _Journal of Statistical Software_, vol. 104(5), pag. 1–37
 summary: Journal of Statistical Software, vol. 104(5), pag. 1–37
 
 # Abstract
@@ -34,10 +34,6 @@ url_website: https://calculus.guidotti.dev
 url_github: https://github.com/eguidotti/calculus/
 url_cran: https://cloud.r-project.org/package=calculus
 
-# Linked projects
-projects: 
-  - yuima
-
 # Tags
-tags: []
+tags: [yuima, statistics, software]
 ---

@@ -15,4 +15,8 @@ location: New Orleans, Louisiana, United States
 date: '2022-11-29T08:00:00Z'
 date_end: '2022-12-01T12:00:00Z'
 all_day: true
+
+url_publication: /publication/text-classification-with-born-rule/
+
+tags: [machine learning]
 ---

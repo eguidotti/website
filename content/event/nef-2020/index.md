@@ -15,6 +15,5 @@ date: '2020-12-08T13:00:00Z'
 date_end: '2020-12-10T15:00:00Z'
 all_day: true
 
-projects:
-  - covid19
+tags: [covid19]
 ---

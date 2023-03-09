@@ -17,6 +17,7 @@ date: '2022-08-24T12:00:00Z'
 date_end: '2022-08-27T12:00:00Z'
 all_day: true
 
-projects:
-  - phd
+url_publication: /publication/efficient-estimation-of-bid-ask-spreads-from-open-high-low-and-close-prices/
+
+tags: [finance]
 ---

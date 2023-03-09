@@ -24,7 +24,7 @@ date: '2020-06-26'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Nonlinear Dynamics, vol. 101(3), pag. 1951-1979. Springer
+publication: _Nonlinear Dynamics_, vol. 101(3), pag. 1951-1979. Springer
 summary: Nonlinear Dynamics, vol. 101(3), pag. 1951-1979. Springer
 
 # Abstract
@@ -34,10 +34,6 @@ abstract: As the COVID-19 outbreak is developing the two most frequently reporte
 doi: 10.1007/s11071-020-05761-w
 url_pdf: https://link.springer.com/content/pdf/10.1007/s11071-020-05761-w.pdf
 url_code: https://github.com/krzbar/COVID19
-
-# Linked projects
-projects:
-  - covid19
 
 # Tags
 tags: [covid19]

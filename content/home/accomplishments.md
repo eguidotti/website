@@ -36,13 +36,13 @@ item:
     title: Google Cloud Research Credits
     url: 'https://edu.google.com/programs/credits/research/'
   - date_start: '2020-12-14'
-    description: Awarded to support the maintainance of [COVID-19 Data Hub]({{< relref "/project/covid19" >}})
+    description: Awarded to support the maintainance of [COVID-19 Data Hub]({{< relref "/publication/a-worldwide-epidemiological-database-for-covid-19-at-fine-grained-spatial-resolution" >}})
     organization: R Consortium
     organization_url: https://www.r-consortium.org
     title: R Consortium ISC Grant Program
     url: https://www.r-consortium.org/all-projects/call-for-proposals
   - date_start: '2020-04-28'
-    description: Awarded to support the development of [COVID-19 Data Hub]({{< relref "/project/covid19" >}})
+    description: Awarded to support the development of [COVID-19 Data Hub]({{< relref "/publication/a-worldwide-epidemiological-database-for-covid-19-at-fine-grained-spatial-resolution" >}})
     organization: IVADO
     organization_url: https://ivado.ca/en/
     title: Institute for Data Valorization

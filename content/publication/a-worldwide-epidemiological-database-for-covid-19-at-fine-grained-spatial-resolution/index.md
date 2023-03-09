@@ -21,7 +21,7 @@ date: '2022-03-29'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Scientific Data, vol. 9(1), pag. 1-7. Nature Publishing Group
+publication: _Scientific Data_, vol. 9(1), pag. 1-7. Nature Publishing Group
 summary: Scientific Data, vol. 9(1), pag. 1-7. Nature Publishing Group
 
 # Abstract
@@ -35,10 +35,6 @@ url_website: https://covid19datahub.io
 url_github: https://github.com/covid19datahub/COVID19
 url_cran: https://cran.r-project.org/package=COVID19
 url_pypi: https://pypi.org/pypi/covid19dh/
-
-# Linked projects
-projects: 
-  - covid19
 
 # Tags
 tags: [covid19]
