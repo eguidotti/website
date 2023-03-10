@@ -30,7 +30,7 @@ abstract: As the technology infrastructure increases in sophistication, Bloomber
 # Links
 doi: 10.13140/RG.2.2.23216.71680
 url_pdf: https://www.researchgate.net/publication/337151620_RblDataLicense_R_Interface_to_Bloomberg_Data_License
-url_website: https://rbldatalicense.guidotti.dev
+url_website: https://rbldatalicense.eguidotti.com
 url_github: https://github.com/eguidotti/RblDataLicense
 url_cran: https://cran.r-project.org/package=RblDataLicense
 

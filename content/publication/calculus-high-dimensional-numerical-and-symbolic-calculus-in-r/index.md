@@ -30,7 +30,7 @@ abstract: The R package calculus implements C++ optimized functions for numerica
 # Links
 doi: 10.18637/jss.v104.i05
 url_pdf: https://www.jstatsoft.org/index.php/jss/article/view/v104i05/4380
-url_website: https://calculus.guidotti.dev
+url_website: https://calculus.eguidotti.com
 url_github: https://github.com/eguidotti/calculus/
 url_cran: https://cloud.r-project.org/package=calculus
 
