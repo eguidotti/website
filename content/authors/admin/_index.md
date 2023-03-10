@@ -75,4 +75,6 @@ I am PhD student at the University of Neuchâtel, with a focus on financial mark
 
 I am also passionate about interdisciplinary projects and computational methods. In particular, I am the developer of [COVID-19 Data Hub](https://covid19datahub.io) ([Scientific Data](https://doi.org/10.1038/s41597-022-01245-1)), I have authored a [classification algorithm](https://bornrule.eguidotti.com) inspired by Born's rule ([NeurIPS](https://neurips.cc/virtual/2022/poster/54723)), and I maintain several [R and Python packages](/coding/) including a package for high dimensional numerical and symbolic calculus in R ([JSS](https://doi.org/10.18637/jss.v104.i05)). For my contributions, I have received grants and awards from [IVADO](https://ivado.ca/en/), the [R Consortium](https://www.r-consortium.org/), and [Google Cloud](https://cloud.google.com/edu/researchers).
 
+Follow me on [LinkedIn](https://www.linkedin.com/in/eguidotti) and [GitHub](https://github.com/eguidotti)
+
 [Download CV](uploads/cv.pdf)
