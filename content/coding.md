@@ -12,7 +12,7 @@ comments: false  # Show comments?
   table figure {margin: 0!important;}
 </style>
 
-I am familiar with a dozen of programming languages, but I mainly code in R and Python. Most of the packages I develop are based on my [papers](/publication/) and [conference talks](/event/).
+I am familiar with several programming languages and I mainly code in R and Python. Most of the packages I develop are based on my [papers](/publication/) and [talks](/event/).
 
 ## GitHub repositories
 

@@ -5,10 +5,10 @@ publishDate: '2022-06-01T00:00:00Z'
 title: R/Finance Conference
 event: R/Finance Conference
 
-talk_type: Conference talk (full)
 talk: 'yuimaGUI: interactive platform for computational finance'
-summary: 'yuimaGUI: Interactive Platform for Computational Finance'
+talk_type: Conference talk (full)
 session: Plenary session
+
 speaker: Emanuele Guidotti
 
 location: Chicago, United States

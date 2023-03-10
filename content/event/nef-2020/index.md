@@ -5,9 +5,9 @@ publishDate: '2022-06-01T00:00:00Z'
 title: Next Einstein Forum Global Gathering
 event: Next Einstein Forum Global Gathering
 
-talk_type: Panel discussion
 talk: The role of data governance in the management of COVID-19 spread
-summary: The Role of Data Governance in the Management of COVID-19 Spread
+talk_type: Panel discussion
+
 speaker: Emanuele Guidotti, Devangana Khokhar, Peter Martey Addo, Jules Brice Tchatchueng Mbougua, Franca Hoffmann
 
 location: Nairobi, Kenya

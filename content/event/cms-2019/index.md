@@ -5,10 +5,10 @@ publishDate: '2022-06-01T00:00:00Z'
 title: International Conference on Computational and Methodological Statistics (CMStatistics)
 event: International Conference on Computational and Methodological Statistics
 
-talk_type: Conference talk
 talk: Towards coding of the asymptotic expansion formulas in YUIMA
-summary: Towards Coding of the Asymptotic Expansion Formulas in YUIMA
+talk_type: Conference talk
 session: Asymptotic and computational methods for stochastic processes
+
 speaker: Emanuele Guidotti
 
 location: London, England

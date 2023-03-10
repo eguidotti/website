@@ -5,9 +5,9 @@ publishDate: '2022-06-01T00:00:00Z'
 title: Seminar at the University of Tokyo, Graduate School of Mathematical Sciences
 event: Seminar at the University of Tokyo, Graduate School of Mathematical Sciences
 
-talk_type: Seminar
 talk: 'yuimaGUI: a graphical user interface for the yuima package'
-summary: 'yuimaGUI: a Graphical User Interface for the yuima Package'
+talk_type: Seminar
+
 speaker: Emanuele Guidotti
 
 location: Tokyo, Japan

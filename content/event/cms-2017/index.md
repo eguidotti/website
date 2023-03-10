@@ -5,10 +5,10 @@ publishDate: '2022-06-01T00:00:00Z'
 title: International Conference on Computational and Methodological Statistics (CMStatistics)
 event: International Conference on Computational and Methodological Statistics
 
-talk_type: Conference talk
 talk: The YUIMA framework for simulation and inference of stochastic processes and its GUI
-summary: The YUIMA Framework for Simulation and Inference of Stochastic Processes and its GUI
+talk_type: Conference talk
 session: Statistics for high frequency data
+
 speaker: Emanuele Guidotti
 
 location: London, England

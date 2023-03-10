@@ -5,18 +5,17 @@ publishDate: '2022-06-01T00:00:00Z'
 title: Annual Meeting of the Financial Management Association (FMA)
 event: Annual Meeting of the Financial Management Association
 
-talk_type: Conference talk
 talk: Efficient estimation of bid-ask spreads from open, high, low, and close prices
-summary: Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
+talk_url: /publication/efficient-estimation-of-bid-ask-spreads-from-open-high-low-and-close-prices/
+talk_type: Conference talk
 session: Market microstructure
+
 speaker: Emanuele Guidotti
 
 location: Atlanta, Georgia, United States
 date: '2022-10-19T12:00:00Z'
 date_end: '2022-10-22T12:00:00Z'
 all_day: true
-
-url_publication: /publication/efficient-estimation-of-bid-ask-spreads-from-open-high-low-and-close-prices/
 
 tags: [finance]
 ---

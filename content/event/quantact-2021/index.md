@@ -5,9 +5,9 @@ publishDate: '2022-06-01T00:00:00Z'
 title: Quantact Seminar
 event: Quantact Seminar
 
-talk_type: Seminar
 talk: Asymptotic expansion formulas for diffusion processes based on the perturbation method
-summary: Asymptotic Expansion Formulas for Diffusion Processes Based on the Perturbation Method
+talk_type: Seminar
+
 speaker: Emanuele Guidotti
 
 location: Montréal, Canada
