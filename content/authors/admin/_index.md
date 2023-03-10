@@ -6,7 +6,7 @@ title: Emanuele Guidotti
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Finance
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,23 +16,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-# Interests to show in About widget
-interests:
-  - Financial markets
-  - Data science
+# # Interests to show in About widget
+# interests:
+#   - Financial markets
+#   - Data science
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Finance
-      institution: University of Neuchâtel, Switzerland
-      year: 2023 (expected)
-    - course: MSc in Finance
-      institution: University of Milan, Italy
-      year: 2017
-    - course: BSc in Physics
-      institution: University of Milan, Italy
-      year: 2015
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD in Finance
+#       institution: University of Neuchâtel, Switzerland
+#       year: 2023 (expected)
+#     - course: MSc in Finance
+#       institution: University of Milan, Italy
+#       year: 2017
+#     - course: BSc in Physics
+#       institution: University of Milan, Italy
+#       year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,10 +71,8 @@ email: 'emanuele.guidotti@unine.ch'
 highlight_name: true
 ---
 
-I am PhD student in Finance at the University of Neuchâtel. My research interests include asset pricing and market microstructure. My research focuses on how microstructure variables affect asset prices and participate in price formation. I am also partner at Algo Finance Sagl: a software house startup developing financial algorithms for the asset management industry. 
+I am PhD student at the University of Neuchâtel, with a focus on financial markets. Specifically, my research examines how microstructure variables impact asset prices and participate in price formation. In my [working paper](https://doi.org/10.2139/ssrn.4377151), I propose a theory where prices are formed in a purely mechanical manner through trading and derive several testable predictions about the joint relationships among trading volume, price impact, trading frequency, bid-ask spreads, order imbalance, market depth, and volatility.
 
-I work with R and Python, relational databases, and cloud computing. I have also written efficient SAS code to process 200+ TB of high-frequency TAQ data via the WRDS High Performance Computing Cluster.
-
-I am passionate about interdisciplinary data science and AI projects.
+I am also passionate about interdisciplinary projects and computational methods. In particular, I am the developer of [COVID-19 Data Hub](https://covid19datahub.io) ([Scientific Data](https://doi.org/10.1038/s41597-022-01245-1)), I have authored a [classification algorithm](https://bornrule.eguidotti.com) inspired by Born's rule ([NeurIPS](https://neurips.cc/virtual/2022/poster/54723)), and I maintain several [R and Python packages](/coding/) including a package for high dimensional numerical and symbolic calculus in R ([JSS](https://doi.org/10.18637/jss.v104.i05)). For my contributions, I have received grants and awards from [IVADO](https://ivado.ca/en/), the [R Consortium](https://www.r-consortium.org/), and [Google Cloud](https://cloud.google.com/edu/researchers).
 
 [Download CV](uploads/cv.pdf)
