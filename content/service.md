@@ -11,6 +11,7 @@ I have reviewed and discussed papers at the following journals and conferences.
 
 ## Reviewer
 
+- 2023 - The R Journal.
 - 2022 - Scientific Data, Nature Publishing Group.
 
 ## Discussant
