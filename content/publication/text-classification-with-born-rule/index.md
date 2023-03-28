@@ -30,7 +30,6 @@ abstract: "This paper presents a text classification algorithm inspired by the n
 
 # Links
 # doi: 
-url_doi: https://proceedings.neurips.cc/paper_files/paper/2022/hash/c88d0c9bea6230b518ce71268c8e49e0-Abstract-Conference.html
 url_pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/c88d0c9bea6230b518ce71268c8e49e0-Paper-Conference.pdf
 url_github: https://github.com/eguidotti/bornrule
 url_pypi: https://pypi.org/project/bornrule/
