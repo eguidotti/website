@@ -6,12 +6,12 @@ title: Emanuele Guidotti
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Neuchâtel
-    url: https://www.unine.ch/iaf/home/equipe/emanuele-guidotti.html
+  - name: USI Lugano
+    url: https://www.usi.ch
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -48,9 +48,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/eguidotti
-  - icon: medium
-    icon_pack: fab
-    link: https://www.medium.com/@eguidotti
+  # - icon: medium
+  #   icon_pack: fab
+  #   link: https://www.medium.com/@eguidotti
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=zS7c954AAAAJ&hl=en
@@ -71,9 +71,13 @@ email: 'emanuele.guidotti@unine.ch'
 highlight_name: true
 ---
 
-I am PhD student at the University of Neuchâtel, with a focus on financial markets. Specifically, I study how microstructure variables impact asset prices and participate in price formation. In my [working paper](https://doi.org/10.2139/ssrn.4377151), I propose a theory where prices are formed in a purely mechanical manner through trading and derive testable predictions about trading volume, price impact, trading frequency, bid-ask spreads, order imbalance, market depth, and volatility.
+I am a physicist turned into a quant and computer scientist with a strong interdisciplinary mindset. I am interested in financial markets, machine learning, and data science, and my long-term goal is to study price dynamics in financial markets through the lens of deep learning and the analysis of big data. 
 
-I am also passionate about interdisciplinary projects and computational methods. In particular, I am the developer of [COVID-19 Data Hub](https://covid19datahub.io) ([Scientific Data](https://doi.org/10.1038/s41597-022-01245-1)), I have authored a [classification algorithm](https://bornrule.eguidotti.com) inspired by Born's rule ([NeurIPS](https://neurips.cc/virtual/2022/poster/54723)), and I maintain several [R and Python packages](/coding/) including a package for high dimensional numerical and symbolic calculus in R ([JSS](https://doi.org/10.18637/jss.v104.i05)). For my contributions, I have received grants and awards from [IVADO](https://ivado.ca/en/), the [R Consortium](https://www.r-consortium.org/), and [Google Cloud](https://cloud.google.com/edu/researchers).
+I am currently working on price formation, efficient estimation of bid-ask spreads, asymptotic expansion formulas for diffusion processes, and explainable AI.
+
+Among other things, I am the developer of [COVID-19 Data Hub](https://covid19datahub.io) ([Scientific Data](https://doi.org/10.1038/s41597-022-01245-1)), I have authored a [classification algorithm](https://bornrule.eguidotti.com) inspired by Born's rule ([NeurIPS](https://neurips.cc/virtual/2022/poster/54723)), and I maintain several [R and Python packages](/coding/) including a package for high dimensional numerical and symbolic calculus in R ([JSS](https://doi.org/10.18637/jss.v104.i05)). 
+
+For my contributions, I have received grants and awards from [IVADO](https://ivado.ca/en/), the [R Consortium](https://www.r-consortium.org/), and [Google Cloud](https://cloud.google.com/edu/researchers).
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/eguidotti) and [GitHub](https://github.com/eguidotti)
 
