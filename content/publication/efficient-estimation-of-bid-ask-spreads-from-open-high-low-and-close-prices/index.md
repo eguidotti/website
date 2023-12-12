@@ -27,7 +27,7 @@ publication: Available at SSRN
 summary: Available at SSRN
 
 # Abstract
-abstract: This paper formally derives an efficient estimator of the bid-ask spread from open, high, low, and close prices. The estimator is asymptotically unbiased and optimally combines the full set of price data to minimize the estimation variance. In absence of quote data, it delivers the most accurate estimates of bid-ask spreads theoretically, numerically, and empirically. The estimator is easy to calculate and has a broad applicability in empirical finance. We discuss implications for applied research.
+abstract: Popular bid-ask spread estimators are downward biased when trading is infrequent. Moreover, they consider only a subset of open, high, low, and close prices and neglect potentially useful information to improve the spread estimate. By accounting for discretely observed prices, this paper derives asymptotically unbiased estimators of the effective bid-ask spread. Moreover, we optimally combine them to minimize the estimation variance and obtain an efficient estimator. Through theoretical analyses, numerical simulations, and empirical evaluations, we show that our efficient estimator dominates other estimators from transaction prices, yields novel insights for measuring bid-ask spreads, and has broad applicability in empirical finance.
 
 # Links
 doi: 10.2139/ssrn.3892335
