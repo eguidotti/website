@@ -71,10 +71,7 @@ email: 'emanuele.guidotti@unine.ch'
 highlight_name: true
 ---
 
-I am postodctoral researcher with the Institute of Finance at USI Lugano. Among other things, I am the developer of [COVID-19 Data Hub](/publication/a-worldwide-epidemiological-database-for-covid-19-at-fine-grained-spatial-resolution/), have authored a [classification algorithm](/publication/text-classification-with-born-rule/) inspired by Born's rule, and maintain several [R and Python packages](/coding/) including a package for high dimensional numerical and symbolic [calculus in R](/publication/calculus-high-dimensional-numerical-and-symbolic-calculus-in-r/). 
+I am postdoctoral researcher with the Institute of Finance at USI Lugano. Among other things, I am the developer of [COVID-19 Data Hub](/publication/a-worldwide-epidemiological-database-for-covid-19-at-fine-grained-spatial-resolution/), have authored a [classification algorithm](/publication/text-classification-with-born-rule/) inspired by Born's rule, and maintain several [R and Python packages](/coding/) including a package for high dimensional numerical and symbolic [calculus in R](/publication/calculus-high-dimensional-numerical-and-symbolic-calculus-in-r/). For my contributions, I have received grants and awards from [IVADO](https://ivado.ca/en/), the [R Consortium](https://www.r-consortium.org/), and [Google Cloud](https://cloud.google.com/edu/researchers).
 
-For my contributions, I have received grants and awards from [IVADO](https://ivado.ca/en/), the [R Consortium](https://www.r-consortium.org/), and [Google Cloud](https://cloud.google.com/edu/researchers).
-
-Follow me on [LinkedIn](https://www.linkedin.com/in/eguidotti) and [GitHub](https://github.com/eguidotti)
 
 [Download CV](uploads/cv.pdf)
