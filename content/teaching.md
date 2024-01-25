@@ -7,7 +7,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 ---
 
-- [Deploying Machine Learning Models on Google Cloud Platform](https://dse-lm91.cdl.unimi.it/en/courses/laboratories), Master in Data Science for Economics, University of Milan, academic year 2022/2023.
+- [Deploying Machine Learning Models on Google Cloud Platform](https://dse-lm91.cdl.unimi.it/en/courses/laboratories), Master in Data Science for Economics, University of Milan, academic year 2022/2023 and 2023/2024.
 - [Data Acquisition, Management, and Visualization](https://dse-lm91.cdl.unimi.it/en/courses/laboratories), Master in Data Science for Economics, University of Milan, academic years 2020/2021 and 2021/2022.
 
 ## Co-teaching

@@ -71,11 +71,7 @@ email: 'emanuele.guidotti@unine.ch'
 highlight_name: true
 ---
 
-I am a physicist turned into a quant and computer scientist with a strong interdisciplinary mindset. I am interested in financial markets, machine learning, and data science, and my long-term goal is to study price dynamics in financial markets through the lens of deep learning and the analysis of big data. 
-
-I am currently working on price formation, efficient estimation of bid-ask spreads, asymptotic expansion formulas for diffusion processes, and explainable AI.
-
-Among other things, I am the developer of [COVID-19 Data Hub](https://covid19datahub.io) ([Scientific Data](https://doi.org/10.1038/s41597-022-01245-1)), I have authored a [classification algorithm](https://bornrule.eguidotti.com) inspired by Born's rule ([NeurIPS](https://neurips.cc/virtual/2022/poster/54723)), and I maintain several [R and Python packages](/coding/) including a package for high dimensional numerical and symbolic calculus in R ([JSS](https://doi.org/10.18637/jss.v104.i05)). 
+I am postodctoral researcher with the Institute of Finance at USI Lugano. Among other things, I am the developer of [COVID-19 Data Hub](/publication/a-worldwide-epidemiological-database-for-covid-19-at-fine-grained-spatial-resolution/), have authored a [classification algorithm](/publication/text-classification-with-born-rule/) inspired by Born's rule, and maintain several [R and Python packages](/coding/) including a package for high dimensional numerical and symbolic [calculus in R](/publication/calculus-high-dimensional-numerical-and-symbolic-calculus-in-r/). 
 
 For my contributions, I have received grants and awards from [IVADO](https://ivado.ca/en/), the [R Consortium](https://www.r-consortium.org/), and [Google Cloud](https://cloud.google.com/edu/researchers).
 
