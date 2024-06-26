@@ -41,7 +41,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:emanuele.guidotti@unine.ch'
+    link: 'mailto:emanuele.guidotti@usi.ch'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/eguidotti
