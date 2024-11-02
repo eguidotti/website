@@ -23,6 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - date_start: '2024-11-01'
+    description: Awarded to support the maintainance of [COVID-19 Data Hub]({{< relref "/publication/a-worldwide-epidemiological-database-for-covid-19-at-fine-grained-spatial-resolution" >}})
+    organization: University of Lugano
+    organization_url: https://www.usi.ch
+    title: Research Grant in Open Research Data
+    url: https://www.usi.ch/en/university/info/research-service/funding-opportunities/call-projects-open-science-open-research-data
   - date_start: '2022-10-07'
     description: Awarded for the paper [Text Classification with Born's Rule]({{< relref "/publication/text-classification-with-born-rule" >}})
     organization: NeurIPS
@@ -45,7 +51,7 @@ item:
     description: Awarded to support the development of [COVID-19 Data Hub]({{< relref "/publication/a-worldwide-epidemiological-database-for-covid-19-at-fine-grained-spatial-resolution" >}})
     organization: IVADO
     organization_url: https://ivado.ca/en/
-    title: Institute for Data Valorization
+    title: Institute for Data Valorization Research Grant
     url: 'https://ivado.ca/en/scholarships-and-grants/covid-19-ivado-projects-and-initiatives/'
 
 design:
