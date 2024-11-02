@@ -10,7 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: USI Lugano
+  - name: University of Lugano (USI)
     url: https://www.usi.ch
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,7 +71,7 @@ social:
 highlight_name: true
 ---
 
-I am a postdoctoral researcher in Finance at USI Lugano with a solid quantitative background and an interdisciplinary mindset. I obtained my B.Sc. in Physics and M.Sc. in Quantitative Finance from the University of Milan. I hold a Ph.D. in Finance from the University of Neuchâtel. I am also a partner at Algo Finance Sagl (a software house startup developing algorithms for the asset management industry) and a member of the YUIMA team (an international research team in Computational Statistics affiliated with the Japan Science and Technology Agency CREST). 
+I am a postdoctoral researcher in Finance at the University of Lugano (USI) with a solid quantitative background and an interdisciplinary mindset. I obtained my B.Sc. in Physics and M.Sc. in Quantitative Finance from the University of Milan, under the supervision of [A. Vicini](https://scholar.google.it/citations?user=-LV8m-oAAAAJ&hl=en) and [S.M. Iacus](https://scholar.google.com/citations?user=JBs9tJ4AAAAJ&hl=en), respectively. I hold a Ph.D. in Finance from the University of Neuchâtel obtained under the supervision of [T.A. Kroencke](https://scholar.google.com/citations?user=Ca_UmBoAAAAJ&hl=en). I am now affiliated with the Institute of Finance at USI where I am supervised by [L. Frésard](https://scholar.google.ch/citations?user=ktC1pPAAAAAJ&hl=en) I am also a partner at Algo Finance Sagl (a software house startup developing algorithms for the asset management industry) and a member of the YUIMA team (an international research team in Computational Statistics affiliated with the Japan Science and Technology Agency CREST). 
 
 My research interests include financial markets, data science, and artificial intelligence. My work has been published in top venues in these fields (Journal of Financial Economics, Nature Scientific Data, and Neural Information Processing Systems). Currently, I am developing a theory of price formation in financial markets, which I plan to use to study empirically how the growing adoption of artificial intelligence in trading may impact prices, understand whether and how this may lead to a disconnection with fundamental values, and assess potential policy implications. 
 
