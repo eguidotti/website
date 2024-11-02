@@ -64,13 +64,15 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0002-8961-6623
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'emanuele.guidotti@unine.ch'
+# # Enter email to display Gravatar (if Gravatar enabled in Config)
+# email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am postdoctoral researcher with the Institute of Finance at USI Lugano. 
+I am a postdoctoral researcher in Finance at USI Lugano with a solid quantitative background and an interdisciplinary mindset. I obtained my B.Sc. in Physics and M.Sc. in Quantitative Finance from the University of Milan. I hold a Ph.D. in Finance from the University of Neuchâtel. I am also a partner at Algo Finance Sagl (a software house startup developing algorithms for the asset management industry) and a member of the YUIMA team (an international research team in Computational Statistics affiliated with the Japan Science and Technology Agency CREST). 
+
+My research interests include financial markets, data science, and artificial intelligence. My work has been published in top venues in these fields (Journal of Financial Economics, Nature Scientific Data, and Neural Information Processing Systems). Currently, I am developing a theory of price formation in financial markets, which I plan to use to study empirically how the growing adoption of artificial intelligence in trading may impact prices, understand whether and how this may lead to a disconnection with fundamental values, and assess potential policy implications. 
 
 [Download CV](uploads/cv.pdf)
