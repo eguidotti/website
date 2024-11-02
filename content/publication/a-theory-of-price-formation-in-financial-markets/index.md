@@ -1,6 +1,6 @@
 ---
 # Title
-title: 'A Theory of Price Formation in Financial Markets'
+title: 'A Model of Price Formation in Frictionless Markets'
 
 # Display this page in the Featured widget?
 featured: false
@@ -12,7 +12,7 @@ authors:
   - admin
 
 # Publication date
-date: '2023-03-07'
+date: '2024-10-12'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,7 @@ publication: Available at SSRN
 summary: Available at SSRN
 
 # Abstract
-abstract: This paper presents a theory where prices are formed in a purely mechanical manner through trading. The theory consists of three fundamental propositions. First, the quantity exchanged in a trade equals the integrated density of the book between zero and the peak impact. Second, the peak impact relaxes to the permanent impact such that makers and takers earn zero profits in the transaction. Third, the asset price is determined by the accumulation of price impacts. The model is simple yet capable of replicating various patterns observed in financial data and reconciling disparate theoretical and empirical research strands.
+abstract: The discovery of universal constants is fundamental to the advancement of science. A recent empirical hypothesis suggests the existence of a market microstructure invariant that is constant across assets and time. Here, I investigate this hypothesis by developing a model of price formation in frictionless markets. Through theoretical analysis, I find that the invariant actually varies depending on several characteristics. By accounting for these characteristics, I propose a generalized invariant predicted to be constant and equal to one. Using a comprehensive dataset of U.S. stocks between September 2003 and December 2021, I find that the generalized invariant is more homogeneous across assets and time and has a median value of 1.07 with an interquartile range between 0.63 and 1.65. Overall, this work contributes to a broader understanding of asset prices and the joint relationship among prices, volume, volatility, effective spread, trading frequency, market depth, market fragmentation, and several imbalance measures.
 
 # Links
 doi: 10.2139/ssrn.4377151
