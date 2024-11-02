@@ -11,6 +11,7 @@ I have reviewed and discussed papers at the following journals and conferences.
 
 ## Reviewer
 
+- 2024 - Financial Markets and Portfolio Management.
 - 2023 - The R Journal.
 - 2022 - Scientific Data, Nature Publishing Group.
 
