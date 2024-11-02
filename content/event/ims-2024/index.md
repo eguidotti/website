@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 publishDate: '2024-01-24T00:00:00Z'
 
 title: Institute for Mathematical Statistics - Asia-Pacific Rim Meeting (IMS-APRM)
