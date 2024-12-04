@@ -75,6 +75,4 @@ I am a postdoctoral researcher in Finance at the University of Lugano (USI) unde
 
 My research interests include financial markets, data science, and artificial intelligence. My work has been published in top venues in these fields (Journal of Financial Economics, Nature Scientific Data, and Neural Information Processing Systems). Currently, I am developing a theory of price formation in financial markets, which I plan to use to empirically study how the growing adoption of artificial intelligence in trading may impact prices, understand whether and how this may lead to a disconnection with fundamental values, and assess potential policy implications. 
 
-**JOB OFFER (published November 5, 2024):** I'm hiring a research assistant in Open Research Data with a Master's or higher degree to work on the [COVID-19 Data Hub](https://covid19datahub.io), starting ASAP! The position is funded by the University of Lugano, Switzerland. Possibility to work partially or fully remotely. Read more [here](https://content.usi.ch/sites/default/files/storage/attachments/ifin/ifin-research-assistant-open-research-data.pdf).
-
 [Download CV](uploads/cv.pdf)
