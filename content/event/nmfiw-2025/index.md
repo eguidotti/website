@@ -2,7 +2,7 @@
 featured: false
 publishDate: '2025-02-27T00:00:00Z'
 
-title: Workshop on Numerical Methods For Finance and Insurance (NMFIW2025)
+title: Workshop on Numerical Methods For Finance and Insurance (NMFIW)
 event: Workshop on Numerical Methods For Finance and Insurance
 event_url: https://nmfiw2025.github.io
 
