@@ -19,5 +19,5 @@ I have reviewed and discussed papers at the following journals and conferences.
 
 ## Discussant
 
+- 2025 - Annual Meeting of the Swiss Society for Financial Market Research.
 - 2021 - Annual Meeting of the German Finance Association.
-
