@@ -28,7 +28,7 @@ item:
     organization: Canadian Open Data Society
     organization_url: https://www.opendatasociety.ca
     title: Open Data Quality Award
-    url: https://ivado.ca/en/2025/03/17/covid-19-data-hub-wins-the-2024-open-data-quality-award/
+    url: https://www.opendatasociety.ca/2024-canadian-open-data-awards-winners/
   - date_start: '2024-11-01'
     description: 
     organization: University of Lugano
