@@ -21,6 +21,7 @@ I am familiar with several programming languages and I mainly code in R and Pyth
 |   |   |   |
 | - | - | - |
 | [`bidask`](https://github.com/eguidotti/bidask) | ![](https://img.shields.io/github/stars/eguidotti/bidask?style=social) | Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices |
+| [`torchabc`](https://github.com/eguidotti/torchabc) | ![](https://img.shields.io/github/stars/eguidotti/torchabc?style=social) | A minimal abstract class for training, evaluation, and inference of pytorch models |
 | [`bornrule`](https://github.com/eguidotti/bornrule) | ![](https://img.shields.io/github/stars/eguidotti/bornrule?style=social) | Classification with Born's Rule |
 | [`calculus`](https://github.com/eguidotti/calculus) | ![](https://img.shields.io/github/stars/eguidotti/calculus?style=social) | High Dimensional Numerical and Symbolic Calculus in R |
 | [`covid19datahub`](https://github.com/covid19datahub/COVID19) | ![](https://img.shields.io/github/stars/covid19datahub/COVID19?style=social) | COVID-19 Data Hub |
