@@ -48,6 +48,7 @@ I am familiar with several programming languages and I mainly code in R and Pyth
 
 |   |   |   |
 | - | - | - |
+| [`torchabc`](https://pypi.org/pypi/torchabc/) | ![](https://pepy.tech/badge/torchabc) | A minimal abstract class for training, evaluation, and inference of pytorch models |
 | [`bidask`](https://pypi.org/pypi/bidask/) | ![](https://pepy.tech/badge/bidask) | Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices |
 | [`bornrule`](https://pypi.org/pypi/bornrule/) | ![](https://pepy.tech/badge/bornrule) | Classification with Born's Rule |
 | [`covid19dh`](https://pypi.org/pypi/covid19dh/) | ![](https://pepy.tech/badge/covid19dh) | Python Interface to COVID-19 Data Hub |
