@@ -11,6 +11,8 @@ I have reviewed and discussed papers at the following journals and conferences.
 
 ## Reviewer
 
+- 2025 - Advances in Neural Information Processing Systems
+- 2025 - Journal of Behavioral and Experimental Finance
 - 2025 - Mathematical Finance
 - 2024 - Journal of Financial Econometrics 
 - 2024 - Financial Markets and Portfolio Management.
