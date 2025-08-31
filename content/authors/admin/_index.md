@@ -11,9 +11,9 @@ role: SNSF Ambizione Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Lugano (USI)
-    url: https://www.usi.ch
+    url: https://www.ifin.usi.ch
   - name: Lake Lucerne Institute (LLUI)
-    url: https://www.llui.org
+    url: https://www.llui.org/frr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
