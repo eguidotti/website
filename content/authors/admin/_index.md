@@ -73,7 +73,7 @@ social:
 highlight_name: true
 ---
 
-I am an Ambizione Fellow funded by the Swiss National Science Foundation (SNSF) for the project *"Financial Market Microstructure, Big Data, and AI"* and hold the position of Scientific Collaborator at the Institute of Finance, University of Lugano (USI), and the Department of Wealth Creation, Lake Lucerne Institute (LLUI), Switzerland. I am also a member of the YUIMA team, an international research team in Computational Statistics affiliated with the Japan Science and Technology Agency CREST.
+I am an Ambizione Fellow funded by the Swiss National Science Foundation (SNSF) for the project *"Financial Market Microstructure, Big Data, and AI"* and hold the position of Scientific Collaborator at the Institute of Finance, University of Lugano (USI), and at the Department of Wealth Creation, Lake Lucerne Institute (LLUI), Switzerland. I am also affiliated with the Japan Science and Technology Agency CREST as a member of the YUIMA team, an international research team in Computational Statistics directed by [N. Yoshida](https://scholar.google.com/citations?user=LiebdNAAAAAJ&hl=en).
 
 Previously, I was a postdoctoral researcher at USI under the supervision of [L. Frésard](https://scholar.google.ch/citations?user=ktC1pPAAAAAJ&hl=en). I earned my Ph.D. in Finance from the University of Neuchâtel under the supervision of [T.A. Kroencke](https://scholar.google.com/citations?user=Ca_UmBoAAAAJ&hl=en). I obtained my M.Sc. in Quantitative Finance and B.Sc. in Physics from the University of Milan under the supervision of [S.M. Iacus](https://scholar.google.com/citations?user=JBs9tJ4AAAAJ&hl=en) and [A. Vicini](https://scholar.google.it/citations?user=-LV8m-oAAAAJ&hl=en), respectively. 
 
