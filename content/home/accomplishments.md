@@ -27,7 +27,7 @@ item:
     description: 
     organization: Swiss National Science Foundation
     organization_url: https://www.snf.ch/en
-    title: Ambizione Grant
+    title: Ambizione
     url: https://data.snf.ch/grants/grant/233173
   - date_start: '2025-03-17'
     description: 
