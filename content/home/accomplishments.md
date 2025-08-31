@@ -23,6 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - date_start: '2025-09-01'
+    description: 
+    organization: Swiss National Science Foundation
+    organization_url: https://www.snf.ch/en
+    title: Ambizione Grant
+    url: https://data.snf.ch/grants/grant/233173
   - date_start: '2025-03-17'
     description: 
     organization: Canadian Open Data Society
