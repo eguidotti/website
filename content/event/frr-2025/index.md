@@ -3,7 +3,7 @@ featured: true
 publishDate: '2025-06-22T00:00:00Z'
 
 title: Finance Research Revolution (FRR) Inaugural Conference
-event: Finance Research Revolution
+event: Finance Research Revolution Inaugural Conference
 event_url: https://www.llui.org/frr/
 
 talk: "Introduction of the Department of Wealth Creation"
