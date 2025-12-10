@@ -13,7 +13,7 @@ organizations:
   - name: University of Lugano (USI)
     url: https://www.ifin.usi.ch
   - name: Lake Lucerne Institute (LLUI)
-    url: https://www.llui.org/frr/
+    url: https://www.llui.org/wealth/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
