@@ -1,6 +1,6 @@
 ---
 # Title
-title: 'A Model of Price Formation in Frictionless Markets'
+title: 'A Model of Price Formation in Competitive Capital Markets'
 
 # Display this page in the Featured widget?
 featured: false
@@ -12,7 +12,7 @@ authors:
   - admin
 
 # Publication date
-date: '2024-10-12'
+date: '2026-08-03'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,7 @@ publication: Available at SSRN
 summary: Available at SSRN
 
 # Abstract
-abstract: The discovery of universal constants is fundamental to the advancement of science. A recent empirical hypothesis suggests the existence of a market microstructure invariant that is constant across assets and time. Here, I investigate this hypothesis by developing a model of price formation in frictionless markets. Through theoretical analysis, I find that the invariant actually varies depending on several characteristics. By accounting for these characteristics, I propose a generalized invariant predicted to be constant and equal to one. Using a comprehensive dataset of U.S. stocks between September 2003 and December 2021, I find that the generalized invariant is more homogeneous across assets and time and has a median value of 1.07 with an interquartile range between 0.63 and 1.65. Overall, this work contributes to a broader understanding of asset prices and the joint relationship among prices, volume, volatility, effective spread, trading frequency, market depth, market fragmentation, and several imbalance measures.
+abstract: This paper presents a model of price formation in competitive capital markets. Liquidity providers supply liquidity, liquidity consumers trade against it, and competition imposes zero expected profits on liquidity providers. This implies that the expected future price must equal the average execution price, so permanent price impact is determined by the liquidity supply consumed by the trade. Aggregating price impacts yields testable relationships linking prices, liquidity, trading volume, and volatility. Using NYSE Daily TAQ data for U.S. common stocks from September 2003 to December 2024, I estimate the shape of liquidity supply and test the resulting relationships. The estimates support a quadratic liquidity supply, implying square-root price impact at the level of individual trades. The empirical relationships are very close to those predicted by the model.
 
 # Links
 doi: 10.2139/ssrn.4377151
