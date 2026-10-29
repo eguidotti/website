@@ -14,7 +14,7 @@ session: Volatility Session
 speaker: Emanuele Guidotti
 discussant: Fabrizio Lillo
 
-location: University of Pavia, Italy
+location: Pavia, Italy
 date: '2026-01-22T12:00:00Z'
 date_end: '2026-01-23T12:00:00Z'
 all_day: true

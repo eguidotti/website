@@ -13,7 +13,7 @@ session:
 
 speaker: Emanuele Guidotti
 
-location: University of Maryland, United States
+location: Maryland, United States
 date: '2026-04-15T12:00:00Z'
 date_end: '2026-04-15T12:00:00Z'
 all_day: true

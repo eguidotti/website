@@ -12,7 +12,7 @@ talk_type: Seminar
 
 speaker: Emanuele Guidotti
 
-location: Linköping University, Sweden
+location: Linköping, Sweden
 date: '2026-03-19T15:15:00Z'
 date_end: '2026-03-19T16:00:00Z'
 all_day: false

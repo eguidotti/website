@@ -13,7 +13,7 @@ session:
 
 speaker: Emanuele Guidotti
 
-location: Stockholm Business School, Sweden
+location: Stockholm, Sweden
 date: '2026-09-28T12:00:00Z'
 date_end: '2026-09-28T12:00:00Z'
 all_day: true
