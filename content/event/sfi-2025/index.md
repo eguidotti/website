@@ -6,8 +6,8 @@ title: Swiss Finance Institute (SFI) PhD Workshop
 event: Swiss Finance Institute PhD Workshop
 event_url: 
 
-talk: "Universal Laws in Financial Markets"
-talk_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4377151
+talk: "A Theory of Price Formation in Competitive Financial Markets"
+talk_url: /publication/a-theory-of-price-formation-in-financial-markets/
 talk_type: Conference talk
 session: Plenary session
 
