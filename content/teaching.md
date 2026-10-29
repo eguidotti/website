@@ -7,12 +7,14 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 ---
 
+- [Deploying Machine Learning Models on Google Cloud Platform](https://dse-lm91.cdl.unimi.it/en/courses/laboratories), Master in Data Science for Economics, University of Milan, academic years 2022/2023, 2023/2024, and 2024/2025, 2025/2026, 2026/2027.
 - [Corporate Finance](https://search.usi.ch/it/corsi/35270479/corporate-finance), Master in Finance, University of Lugano, academic year 2024/2025.
-- [Deploying Machine Learning Models on Google Cloud Platform](https://dse-lm91.cdl.unimi.it/en/courses/laboratories), Master in Data Science for Economics, University of Milan, academic years 2022/2023, 2023/2024, and 2024/2025.
 - [Data Acquisition, Management, and Visualization](https://dse-lm91.cdl.unimi.it/en/courses/laboratories), Master in Data Science for Economics, University of Milan, academic years 2020/2021 and 2021/2022.
 
 ## Co-teaching
 
+
+- [Fit for Artificial Intelligence in Asset Management](https://es.unisg.ch/en/executive-programme/ai-asset-management/), Executive course, University of St. Gallen, March 2027.
 - [Stochastic Differential Equations with YUIMA](https://www.ida.liu.se/edu/grad/course?cid=752), PhD course, Linköping University, March 2023, with [Yuma Uehara](https://sites.google.com/site/yumauehara1928/), [Lorenzo Mercuri](https://scholar.google.com/citations?user=hEfOT54AAAAJ&hl=en), [Yuta Koike](https://www.ms.u-tokyo.ac.jp/~kyuta/), [Kengo Kamatani](https://sites.google.com/view/kengokamatani/home), and [Hiroki Masuda](https://www2.math.kyushu-u.ac.jp/~hiroki/hmhp.html).
 - [Text Mining and Sentiment Analysis](https://www.unimi.it/en/education/degree-programme-courses/2020/text-mining-and-sentiment-analysis), Master in Data Science for Economics, University of Milan, academic year 2019/2020, with [Alfio Ferrara](https://scholar.google.it/citations?user=7vf1QqwAAAAJ&hl=it).
 - [Coding for Data Science and Data Management](https://www.unimi.it/en/education/degree-programme-courses/2020/coding-data-science-and-data-management), Master in Data Science for Economics, University of Milan, academic year 2019/2020, with [Stefano Montanelli](https://scholar.google.it/citations?user=aRgwxwkAAAAJ&hl=it) and [Nicolò Cesa-Bianchi](https://scholar.google.com/citations?user=BWADJUkAAAAJ&hl=en).
